@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Introduction
-======
 I'm a Phd student from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interest includes autonomous driving, computer vision, machine learning, and their applications on CAVs.
 
 Publications
